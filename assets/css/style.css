@@ -12,6 +12,10 @@ html {
   color: #7289da;
 }
 
+.blue {
+  color: #3c9dd4;
+}
+
 .bg-base {
   background-color: #1a2634 !important;
 }
@@ -217,8 +221,7 @@ nav.nav-w {
 }
 
 @media (max-width: 767px) {
-  .shape-right
- {
+  .shape-right {
     display: none;
   }
 }
